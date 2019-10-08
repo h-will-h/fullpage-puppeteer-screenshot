@@ -11,8 +11,7 @@
   "repository": "h-will-h/fullpage-puppeteer-screenshot",
   "keywords": [
     "puppeteer",
-    "screenshot",
-    "npm"
+    "screenshot"
   ],
   "dependencies": {
     "merge-img": "^2.1.3"
