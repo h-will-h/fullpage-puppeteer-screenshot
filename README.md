@@ -8,7 +8,7 @@ It avoids visual bugs that happen when using puppeteer's native `fullPage` optio
 
 ```
 const puppeteer = require("puppeteer");
-const screenshot = require("./index");
+const screenshot = require("fullpage-puppeteer-screenshot");
 
 (async () => {
   const browser = await puppeteer.launch();
