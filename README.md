@@ -1,3 +1,5 @@
+[![NPM Version](https://img.shields.io/npm/v/fullpage-puppeteer-screenshot.svg)](https://www.npmjs.com/package/fullpage-puppeteer-screenshot)
+
 # Full page Puppeteer Screenshots
 
 A way to take full page [Puppeteer](https://pptr.dev/) screenshots that results in more accurate-looking screenshots.
