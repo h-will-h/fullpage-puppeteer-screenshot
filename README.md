@@ -1,6 +1,6 @@
-# Full-page Puppeteer Screenshots
+# Full page Puppeteer Screenshots
 
-A way to take full-page [Puppeteer](https://pptr.dev/) screenshots that results in more accurate-looking screenshots.
+A way to take full page [Puppeteer](https://pptr.dev/) screenshots that results in more accurate-looking screenshots.
 
 It avoids visual bugs that happen when using puppeteer's native `fullPage` option by taking a series of viewport-sized screenshots using puppeteers's screenshot clipping functionality and stitching them together using [merge-img](https://github.com/preco21/merge-img#readme).
 
