@@ -1,0 +1,20 @@
+{
+  "name": "fullpage-puppeteer-screenshot",
+  "version": "1.0.0",
+  "description": "A way to take full page screenshots from puppeteer that doesn't distort CSS that depends on viewport size or scroll position (or similar).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Howard",
+  "license": "MIT",
+  "repository": "h-will-h/fullpage-puppeteer-screenshot",
+  "keywords": [
+    "puppeteer",
+    "screenshot",
+    "npm"
+  ],
+  "dependencies": {
+    "merge-img": "^2.1.3"
+  }
+}
