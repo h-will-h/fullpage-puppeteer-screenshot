@@ -11,7 +11,7 @@ It avoids visual bugs that happen when using puppeteer's native `fullPage` optio
 - `page` a Puppeteer [page `Object`](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#class-page) (required).
 - `options` an `Object` (optional) matching Puppeteer's [screenshot options](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#pagescreenshotoptions). The `fullPage` and `clip` parameters will be overwritten.
 
-Returns a `Promise` that contains a [Jimp Object](https://github.com/oliver-moran/jimp/tree/master/packages/jimp).
+Returns a [Jimp Object](https://github.com/oliver-moran/jimp/tree/master/packages/jimp).
 
 ## Example
 
